@@ -61,12 +61,14 @@
                 "id": "d9f5dd107bfeb68a",
                 "type": "leaf",
                 "state": {
-                  "type": "release-notes",
+                  "type": "markdown",
                   "state": {
-                    "currentVersion": "1.8.10"
+                    "file": "docs/blender.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.8.10"
+                  "icon": "lucide-file",
+                  "title": "blender"
                 }
               }
             ],
@@ -228,6 +230,8 @@
   },
   "active": "d9f5dd107bfeb68a",
   "lastOpenFiles": [
+    "docs/seedbox.md",
+    "docs/blender.md",
     "supernote/20241123_172342.note",
     "docs/gamedev/godot/External Editors.md",
     "supernote/_attachments/20241123_172342-0.png",
@@ -247,7 +251,6 @@
     "docs/m8/fm synth planning 101.md",
     "docs/m8/themes.md",
     "docs/m8/resources.md",
-    "docs/seedbox.md",
     "docs/gamedev/godot/Freeing Many Nodes At Once.md",
     "docs/gamedev/godot/gamedocs/bulletlab.md",
     "docs/index.md",
