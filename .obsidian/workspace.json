@@ -56,9 +56,21 @@
                   "icon": "lucide-file",
                   "title": "External Editors"
                 }
+              },
+              {
+                "id": "d9f5dd107bfeb68a",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.8.10"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.8.10"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -80,7 +92,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -213,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "494c4fc4cd291617",
+  "active": "d9f5dd107bfeb68a",
   "lastOpenFiles": [
     "supernote/20241123_172342.note",
     "docs/gamedev/godot/External Editors.md",
