@@ -18,3 +18,10 @@ weakness 23 times, then remain
 still and wait and wait...
 The first seal will be severed...
 ```
+
+```
+B086:
+A suspicious empty chest
+surrounded by nothing, inspect it
+one too many times...
+```
