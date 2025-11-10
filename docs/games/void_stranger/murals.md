@@ -1,3 +1,8 @@
-![[20251109175435_1 1.jpg]]
-# `B029`: mural at `B053`
-![[20251109180718_1.jpg]]
+```
+B044:
+Three leeches roam, one
+completely out of read... fall
+behind the chest...
+
+(Fall behind the chest on B037)
+```
