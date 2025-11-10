@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/games/void_stranger/murals.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -187,6 +187,7 @@
   },
   "active": "b9e9fce8fc768309",
   "lastOpenFiles": [
+    "docs/games/void_stranger/_attachments/Pasted image 20251109222719.png",
     "docs/games/void_stranger/_attachments/20251109180718_1.jpg",
     "docs/games/void_stranger/_attachments/20251109175435_1 1.jpg",
     "docs/games/void_stranger/_attachments/20251109175435_1.jpg",
@@ -222,7 +223,6 @@
     "docs/m8/_attachments/Pasted image 20240226233533.png",
     "docs/m8/_attachments/Pasted image 20240226233503.png",
     "docs/m8/_attachments/Pasted image 20240226233314.png",
-    "docs/m8/_attachments/Pasted image 20240226233311.png",
     "docs/linux/Storage Drives.md",
     "docs/gamedev/godot/Buffered Input System.md",
     "docs/gamedev/godot/Font Data Half-Pixel Fix.md",
