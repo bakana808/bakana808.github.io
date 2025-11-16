@@ -150,28 +150,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "supernote/20241115_125700.md"
+                "file": "docs/linux/Apps.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20241115_125700"
-            }
-          },
-          {
-            "id": "835d3d7a68c60063",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Apps"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -188,11 +181,8 @@
   },
   "active": "b9e9fce8fc768309",
   "lastOpenFiles": [
-    "github.com/BurntSushi/ripgrep.md",
-    "docs/linux/Apps.md",
-    "github.com/BurntSushi",
-    "github.com",
     "docs/games/void_stranger/murals.md",
+    "docs/linux/Apps.md",
     "docs/games/void_stranger/_attachments/Pasted image 20251109222719.png",
     "docs/games/void_stranger/_attachments/20251109180718_1.jpg",
     "docs/games/void_stranger/_attachments/20251109175435_1 1.jpg",
@@ -216,6 +206,8 @@
     "supernote/20241123_172342.md",
     "supernote/20241116_072338.note",
     "supernote/sudoku.note",
+    "supernote/m8gd.note",
+    "supernote/~syncthing~20241116_072338.note.tmp",
     "docs/m8/fm synth planning 101.md",
     "docs/m8/resources.md",
     "docs/gamedev/godot/Freeing Many Nodes At Once.md",
@@ -233,6 +225,7 @@
     "docs/gamedev/godot/Palettes & Dithering.md",
     "docs/linux/Useful Commands.md",
     "docs/linux/SteamOS.md",
-    "docs/linux/Setting up GRUB.md"
+    "docs/linux/Setting up GRUB.md",
+    "docs/linux/Gaming.md"
   ]
 }
