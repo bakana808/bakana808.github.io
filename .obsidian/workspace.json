@@ -189,8 +189,11 @@
   },
   "active": "b9e9fce8fc768309",
   "lastOpenFiles": [
-    "docs/games/void_stranger/murals.md",
+    "github.com/BurntSushi/ripgrep.md",
     "docs/linux/Apps.md",
+    "github.com/BurntSushi",
+    "github.com",
+    "docs/games/void_stranger/murals.md",
     "docs/games/void_stranger/_attachments/Pasted image 20251109222719.png",
     "docs/games/void_stranger/_attachments/20251109180718_1.jpg",
     "docs/games/void_stranger/_attachments/20251109175435_1 1.jpg",
@@ -214,8 +217,6 @@
     "supernote/20241123_172342.md",
     "supernote/20241116_072338.note",
     "supernote/sudoku.note",
-    "supernote/m8gd.note",
-    "supernote/~syncthing~20241116_072338.note.tmp",
     "docs/m8/fm synth planning 101.md",
     "docs/m8/resources.md",
     "docs/gamedev/godot/Freeing Many Nodes At Once.md",
@@ -233,7 +234,6 @@
     "docs/gamedev/godot/Palettes & Dithering.md",
     "docs/linux/Useful Commands.md",
     "docs/linux/SteamOS.md",
-    "docs/linux/Setting up GRUB.md",
-    "docs/linux/Gaming.md"
+    "docs/linux/Setting up GRUB.md"
   ]
 }
