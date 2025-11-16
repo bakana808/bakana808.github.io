@@ -1,4 +1,4 @@
-Font Previewer
+# Fonts
 # Development
 
 - Java: `jdk-openjdk`  
