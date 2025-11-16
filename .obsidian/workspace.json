@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/games/void_stranger/murals.md",
+                "file": "docs/linux/Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "murals"
+              "title": "Apps"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2738b58dad6ffe85",
@@ -171,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,13 +189,14 @@
   },
   "active": "b9e9fce8fc768309",
   "lastOpenFiles": [
+    "docs/games/void_stranger/murals.md",
+    "docs/linux/Apps.md",
     "docs/games/void_stranger/_attachments/Pasted image 20251109222719.png",
     "docs/games/void_stranger/_attachments/20251109180718_1.jpg",
     "docs/games/void_stranger/_attachments/20251109175435_1 1.jpg",
     "docs/games/void_stranger/_attachments/20251109175435_1.jpg",
     "docs/games/void_stranger/_attachments",
     "docs/m8/themes.md",
-    "docs/games/void_stranger/murals.md",
     "docs/games/void_stranger",
     "docs/games",
     "conflict-files-obsidian-git.md",
@@ -222,7 +225,6 @@
     "docs/m8/_attachments/Pasted image 20240226233620.png",
     "docs/m8/_attachments/Pasted image 20240226233533.png",
     "docs/m8/_attachments/Pasted image 20240226233503.png",
-    "docs/m8/_attachments/Pasted image 20240226233314.png",
     "docs/linux/Storage Drives.md",
     "docs/gamedev/godot/Buffered Input System.md",
     "docs/gamedev/godot/Font Data Half-Pixel Fix.md",
