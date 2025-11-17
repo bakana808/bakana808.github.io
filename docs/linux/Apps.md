@@ -33,4 +33,7 @@
 - Java: `jdk-openjdk`  
 - Rust: `rust`
 
+## ROM Management
+
 (AUR) `igir-bin`: commandline ROM database manager
+(AUR) `flips-git`: Floating IPS patcher
