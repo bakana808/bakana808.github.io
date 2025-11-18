@@ -4,7 +4,8 @@
 `fzf`: fuzzy finding\
 [`ripgrep`](https://github.com/BurntSushi/ripgrep)\
 [`eza`](https://eza.rocks/): nicer looking replacement for `ls`\
-[`fd`](https://github.com/sharkdp/fd): easier to use replacement for `find`
+[`fd`](https://github.com/sharkdp/fd): easier to use replacement for `find`\
+[`bat`](https://github.com/sharkdp/bat): `cat` replacement with syntax highlighting
 
 # TUIs
 `neovim`
