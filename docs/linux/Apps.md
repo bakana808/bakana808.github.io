@@ -6,6 +6,7 @@
 [`eza`](https://eza.rocks/): nicer looking replacement for `ls`\
 [`fd`](https://github.com/sharkdp/fd): easier to use replacement for `find`\
 [`bat`](https://github.com/sharkdp/bat): `cat` replacement with syntax highlighting
+[`bat-extras`](https://github.com/eth-p/bat-extras):
 
 # TUIs
 `neovim`
