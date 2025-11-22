@@ -12,6 +12,7 @@
 ```sh
 # Core
 git
+iwd         # daemon for connecting to wireless networks
 fontconfig  # library used by many apps for font access
 
 # Development
