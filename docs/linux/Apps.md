@@ -10,6 +10,11 @@
 [`bat-extras`](https://github.com/eth-p/bat-extras):
 
 ```sh
+# Core
+git
+fontconfig  # library used by many apps for font access
+
+
 # Development
 jdk-openjdk  # Java
 rust         # Rust (official)
@@ -54,8 +59,10 @@ dust            # nicer looking du replacement
 impala          # wi-fi manager
 bluetui         # bluetooth manager
 spotify_player  # terminal-based spotify client
+grim            # wayland screenshot utility
 
 # GUIs
+
 firefox
 obsidian        # note taking app
 libreoffice     # free office app suite
