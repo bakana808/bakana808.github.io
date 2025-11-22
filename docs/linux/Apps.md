@@ -31,6 +31,8 @@ file-roller         # file archive manager (integrates w/ nautilus)
 gnome-disk-utility  # disk manager
 gnome-tweaks        # settings app for GTK based apps
 nwg-displays        # display manager for wayland
+evince              # document viewer
+
 
 # Shell tools
 
