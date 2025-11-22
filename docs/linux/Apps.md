@@ -32,11 +32,6 @@ file-roller  # file archive manager
 gnome-tweaks  # settings app for GTK based apps
 nwg-displays  # display manager for wayland
 
-
-
-
-
-
 # Shell tools
 7zip
 tealdeer    # adds "tldr <cmd>" to print a summary of how to use the command
