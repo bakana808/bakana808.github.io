@@ -14,7 +14,6 @@
 git
 fontconfig  # library used by many apps for font access
 
-
 # Development
 jdk-openjdk  # Java
 rust         # Rust (official)
@@ -37,6 +36,7 @@ gnome-disk-utility  # disk manager
 gnome-tweaks        # settings app for GTK based apps
 nwg-displays        # display manager for wayland
 evince              # document viewer
+#imv                 # image viewer
 
 
 # Shell tools
@@ -59,7 +59,8 @@ dust            # nicer looking du replacement
 impala          # wi-fi manager
 bluetui         # bluetooth manager
 spotify_player  # terminal-based spotify client
-grim            # wayland screenshot utility
+#grim            # wayland screenshot utility
+swappy
 
 # GUIs
 
