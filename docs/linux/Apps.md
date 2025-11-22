@@ -12,8 +12,9 @@
 ```sh
 # Core
 git
-iwd         # daemon for connecting to wireless networks
-fontconfig  # library used by many apps for font access
+#iwd             # daemon for connecting to wireless networks
+networkmanager  # daemon and CLI for connecting to networks (wired and wireless)
+fontconfig      # library used by many apps for font access
 
 # Development
 jdk-openjdk  # Java
