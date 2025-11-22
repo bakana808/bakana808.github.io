@@ -15,24 +15,25 @@ jdk-openjdk  # Java
 rust         # Rust (official)
 
 # Desktop / Essentials
-sddm        # simple display manager
 
-hyprland    # wayland window manager
-hyprlock    # lock screen
-quickshell  # toolkit for desktop widgets, bars, system tray icons, notifications, etc.
-
-kitty       # terminal emulator
-fish        # shell with auto-complete and syntax highlighting
-starship    # customizable shell prompt
-
+sddm                # simple display manager
+hyprland            # wayland window manager
+hyprlock            # lock screen
+quickshell          # toolkit for desktop widgets, bars, system tray icons, notifications, etc.
+kitty               # terminal emulator
+# alacritty
+fish                # shell with auto-complete and syntax highlighting
+starship            # customizable shell prompt
+# dolphin
 nautilus            # file explorer
-sushi               # file previewer for nautilus
-file-roller         # file archive manager
+sushi               # file previewer (integrates w/ nautilus)
+file-roller         # file archive manager (integrates w/ nautilus)
 gnome-disk-utility  # disk manager
 gnome-tweaks        # settings app for GTK based apps
 nwg-displays        # display manager for wayland
 
 # Shell tools
+
 7zip
 tealdeer    # adds "tldr <cmd>" to print a summary of how to use the command
 fzf         # fuzzy finding
@@ -43,6 +44,7 @@ bat         # cat replacement with syntax highlighting
 bat-extras  # additional scripts for bat such as "batman" for syntax highlighted man pages
 
 # TUIs
+
 neovim
 btop            # nicer looking htop replacement
 fastfetch       # nicer looking neofetch replacement
