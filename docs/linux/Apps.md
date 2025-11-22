@@ -46,6 +46,7 @@ bat-extras  # additional scripts for bat such as "batman" for syntax highlighted
 neovim
 btop            # nicer looking htop replacement
 fastfetch       # nicer looking neofetch replacement
+dust            # nicer looking du replacement
 impala          # wi-fi manager
 bluetui         # bluetooth manager
 spotify_player  # terminal-based spotify client
