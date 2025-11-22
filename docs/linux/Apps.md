@@ -14,10 +14,16 @@
 jdk-openjdk  # Java
 rust         # Rust (official)
 
-# Desktop / Essential GUIs
+# Desktop / Essentials
 hyprland    # wayland window manager
 hyprlock    # lock screen
 quickshell  # toolkit for desktop widgets/bars/etc
+
+kitty       # terminal emulator
+fish        # shell with auto-complete and syntax highlighting
+starship    # customizable shell prompt
+
+
 
 
 # Shell tools
