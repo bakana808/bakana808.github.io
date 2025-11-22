@@ -25,10 +25,10 @@ hyprland            # wayland window manager
 hyprlock            # lock screen
 quickshell          # toolkit for desktop widgets, bars, system tray icons, notifications, etc.
 kitty               # terminal emulator
-# alacritty
+#alacritty
 fish                # shell with auto-complete and syntax highlighting
 starship            # customizable shell prompt
-# dolphin
+#dolphin
 nautilus            # file explorer
 sushi               # file previewer (integrates w/ nautilus)
 file-roller         # file archive manager (integrates w/ nautilus)
@@ -37,6 +37,7 @@ gnome-tweaks        # settings app for GTK based apps
 nwg-displays        # display manager for wayland
 evince              # document viewer
 #imv                 # image viewer
+
 
 
 # Shell tools
@@ -59,8 +60,7 @@ dust            # nicer looking du replacement
 impala          # wi-fi manager
 bluetui         # bluetooth manager
 spotify_player  # terminal-based spotify client
-#grim            # wayland screenshot utility
-swappy
+grim            # wayland screenshot utility
 
 # GUIs
 
@@ -72,6 +72,7 @@ spotify         # official package for spotify
 discord         # official package for discord
 obs-studio
 aesprite        # pixel art image editor
+swappy          # image snapshot editor
 
 # Gaming
 steam           # official package for steam
