@@ -52,6 +52,7 @@ eza         # nicer looking ls replacement
 fd          # easier-to-use find replacement
 bat         # cat replacement with syntax highlighting
 bat-extras  # additional scripts for bat such as "batman" for syntax highlighted man pages
+jq          # JSON processor
 
 # TUIs
 
