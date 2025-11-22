@@ -25,12 +25,12 @@ kitty       # terminal emulator
 fish        # shell with auto-complete and syntax highlighting
 starship    # customizable shell prompt
 
-nautilus     # file explorer
-sushi        # file previewer for nautilus
-file-roller  # file archive manager
-
-gnome-tweaks  # settings app for GTK based apps
-nwg-displays  # display manager for wayland
+nautilus            # file explorer
+sushi               # file previewer for nautilus
+file-roller         # file archive manager
+gnome-disk-utility  # disk manager
+gnome-tweaks        # settings app for GTK based apps
+nwg-displays        # display manager for wayland
 
 # Shell tools
 7zip
