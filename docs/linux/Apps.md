@@ -47,6 +47,7 @@ neovim
 btop            # nicer looking htop replacement
 fastfetch       # nicer looking neofetch replacement
 impala          # wi-fi manager
+bluetui         # bluetooth manager
 spotify_player  # terminal-based spotify client
 
 # GUIs
