@@ -15,13 +15,22 @@ jdk-openjdk  # Java
 rust         # Rust (official)
 
 # Desktop / Essentials
+sddm        # simple display manager
+
 hyprland    # wayland window manager
 hyprlock    # lock screen
-quickshell  # toolkit for desktop widgets/bars/etc
+quickshell  # toolkit for desktop widgets, bars, system tray icons, notifications, etc.
 
 kitty       # terminal emulator
 fish        # shell with auto-complete and syntax highlighting
 starship    # customizable shell prompt
+
+nautilus     # GUI file explorer
+sushi        # file previewer for nautilus
+file-roller  # file archive manager
+
+gnome-tweaks  # settings app for 
+
 
 
 
