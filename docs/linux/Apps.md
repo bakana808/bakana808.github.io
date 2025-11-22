@@ -9,6 +9,52 @@
 [`bat`](https://github.com/sharkdp/bat): `cat` replacement with syntax highlighting
 [`bat-extras`](https://github.com/eth-p/bat-extras):
 
+```sh
+# Development
+jdk-openjdk  # Java
+rust         # Rust (official)
+
+# Desktop / Essential GUIs
+hyprland    # wayland window manager
+hyprlock    # lock screen
+quickshell  # toolkit for desktop widgets/bars/etc
+
+
+# Shell tools
+7zip
+tealdeer    # adds "tldr <cmd>" to print a summary of how to use the command
+fzf         # fuzzy finding
+ripgrep
+eza         # nicer looking ls replacement
+fd          # easier-to-use find replacement
+bat         # cat replacement with syntax highlighting
+bat-extras  # additional scripts for bat such as "batman" for syntax highlighted man pages
+
+# TUIs
+neovim
+btop            # nicer looking htop replacement
+fastfetch       # nicer looking neofetch replacement
+impala          # wi-fi manager
+spotify_player  # terminal-based spotify client
+
+# GUIs
+firefox         # web browser
+obsidian        # note taking app
+libreoffice     # free office app suite
+mpv             # media player
+spotify         # official package for spotify
+discord         # official package for discord
+aesprite        # pixel art image editor
+
+# Gaming
+steam           # official package for steam
+gamescope       # gaming-focused microcompositor for running games
+
+# Game Emulation
+igir-bin        # ROM database manager
+flips-git       # ROM patcher (.ips/.bps files)
+```
+
 # TUIs
 `neovim`
 [`btop`](https://github.com/aristocratos/btop): nicer looking `htop` replacement\
