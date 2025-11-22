@@ -55,12 +55,13 @@ impala          # wi-fi manager
 spotify_player  # terminal-based spotify client
 
 # GUIs
-firefox         # web browser
+firefox
 obsidian        # note taking app
 libreoffice     # free office app suite
 mpv             # media player
 spotify         # official package for spotify
 discord         # official package for discord
+obs-studio
 aesprite        # pixel art image editor
 
 # Gaming
