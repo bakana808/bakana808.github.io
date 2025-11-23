@@ -88,6 +88,7 @@ fastfetch       # nicer looking neofetch replacement
 dust            # nicer looking du replacement
 impala          # wi-fi manager
 bluetui         # bluetooth manager
+playerctl       # media player control utility
 spotify_player  # terminal-based spotify client
 grim            # wayland screenshot utility
 
