@@ -17,6 +17,10 @@ networkmanager  # daemon and CLI for connecting to networks (wired and wireless)
 fontconfig      # library used by many apps for font access
 brightnessctl   # tool to control screen brightness
 
+# Core - printing
+cups
+cups-browsed  # daemon for discovering printers on the network
+
 # Development
 jdk-openjdk  # Java
 rust         # Rust (official)
