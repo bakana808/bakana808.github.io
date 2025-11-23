@@ -45,6 +45,7 @@ starship            # customizable shell prompt
 nautilus            # file explorer
 sushi               # file previewer (integrates w/ nautilus)
 file-roller         # file archive manager (integrates w/ nautilus)
+ffmpegthumbnailer   # video thumbnail support for file managers
 gvfs-mtp            # adds MTP support to nautilus
 gvfs-nfs
 gvfs-smb
