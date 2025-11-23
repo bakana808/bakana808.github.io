@@ -45,6 +45,9 @@ starship            # customizable shell prompt
 nautilus            # file explorer
 sushi               # file previewer (integrates w/ nautilus)
 file-roller         # file archive manager (integrates w/ nautilus)
+gvfs-mtp            # adds MTP support to nautilus
+gvfs-nfs
+gvfs-smb
 gnome-disk-utility  # disk manager
 gnome-tweaks        # settings app for GTK based apps
 nwg-displays        # display manager for wayland
