@@ -18,6 +18,7 @@ networkmanager  # daemon and CLI for connecting to networks (wired and wireless)
 inetutils       # collection of common network programs
 fontconfig      # library used by many apps for font access
 brightnessctl   # tool to control screen brightness
+man-db          # implements manual pages (man)
 
 ## Core - printing
   
@@ -36,7 +37,8 @@ libsecret
 
 jdk-openjdk  # Java
 rust         # Rust (official)
-luarocks     #
+luarocks     # package manager for Lua modules
+
 
 # Desktop / Essentials
 
