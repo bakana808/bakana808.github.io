@@ -15,6 +15,7 @@
 git
 #iwd             # daemon for connecting to wireless networks
 networkmanager  # daemon and CLI for connecting to networks (wired and wireless)
+inetutils       # collection of common network programs
 fontconfig      # library used by many apps for font access
 brightnessctl   # tool to control screen brightness
 
@@ -68,6 +69,7 @@ fd          # easier-to-use find replacement
 bat         # cat replacement with syntax highlighting
 bat-extras  # additional scripts for bat such as "batman" for syntax highlighted man pages
 jq          # JSON processor
+inxi        # system information tool
 gpu-screen-recorder  # shadowplay-like screen recording
 
 # TUIs
