@@ -11,17 +11,23 @@
 
 ```sh
 # Core
+
 git
 #iwd             # daemon for connecting to wireless networks
 networkmanager  # daemon and CLI for connecting to networks (wired and wireless)
 fontconfig      # library used by many apps for font access
 brightnessctl   # tool to control screen brightness
 
-# Core - printing
+## Core - printing
+  
 cups
-cups-browsed  # daemon for discovering printers on the network
+cups-filters
+cups-browsed           # daemon for discovering printers on the network
+cups-pdf               # allow printing to a PDF document
+system-config-printer  # CUPS printer configuration tool and status applet
 
 # Development
+
 jdk-openjdk  # Java
 rust         # Rust (official)
 
