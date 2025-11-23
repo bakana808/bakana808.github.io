@@ -36,6 +36,7 @@ libsecret
 
 jdk-openjdk  # Java
 rust         # Rust (official)
+luarocks     #
 
 # Desktop / Essentials
 
