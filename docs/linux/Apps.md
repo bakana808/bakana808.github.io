@@ -27,6 +27,11 @@ cups-browsed           # daemon for discovering printers on the network
 cups-pdf               # allow printing to a PDF document
 system-config-printer  # CUPS printer configuration tool and status applet
 
+## Core - security
+
+gnome-keyring
+libsecret
+
 # Development
 
 jdk-openjdk  # Java
