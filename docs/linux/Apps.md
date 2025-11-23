@@ -101,6 +101,7 @@ spotify         # official package for spotify
 discord         # official package for discord
 obs-studio
 aesprite        # pixel art image editor
+pinta           # image editor
 swappy          # image snapshot editor
 
 # Gaming
