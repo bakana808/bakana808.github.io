@@ -76,7 +76,11 @@ nwg-displays        # display manager for wayland
 evince              # document viewer
 #imv                 # image viewer
 
+# Desktop - screen capture
 
+gpu-screen-recorder  # shadowplay-like screen recording
+satty                # screenshot annotator
+#swappy
 
 # Shell tools
 
@@ -90,7 +94,6 @@ bat         # cat replacement with syntax highlighting
 bat-extras  # additional scripts for bat such as "batman" for syntax highlighted man pages
 jq          # JSON processor
 inxi        # system information tool
-gpu-screen-recorder  # shadowplay-like screen recording
 
 # TUIs
 
