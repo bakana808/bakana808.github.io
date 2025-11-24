@@ -43,6 +43,7 @@ system-config-printer  # CUPS printer configuration tool and status applet
 polkit
 gnome-keyring
 libsecret
+ufw            # firewall
 
 # Development
 
