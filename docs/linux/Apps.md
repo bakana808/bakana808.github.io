@@ -79,6 +79,9 @@ evince              # document viewer
 # Desktop - screen capture
 
 gpu-screen-recorder  # shadowplay-like screen recording
+
+slurp                # wayland region selection utility
+grim                 # wayland screenshot utility
 satty                # screenshot annotator
 #swappy
 
@@ -105,7 +108,6 @@ impala          # wi-fi manager
 bluetui         # bluetooth manager
 playerctl       # media player control utility
 spotify_player  # terminal-based spotify client
-grim            # wayland screenshot utility
 
 # GUIs
 
