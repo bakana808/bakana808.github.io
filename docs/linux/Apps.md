@@ -20,6 +20,11 @@ fontconfig      # library used by many apps for font access
 brightnessctl   # tool to control screen brightness
 man-db          # implements manual pages (man)
 
+## Core - audio
+
+pipewire
+wireplumber
+
 ## Core - printing
   
 cups
@@ -30,6 +35,7 @@ system-config-printer  # CUPS printer configuration tool and status applet
 
 ## Core - security
 
+polkit
 gnome-keyring
 libsecret
 
@@ -45,6 +51,7 @@ luarocks     # package manager for Lua modules
 sddm                # simple display manager
 hyprland            # wayland window manager
 hyprlock            # lock screen
+polkit-gnome        # authorization agent
 quickshell          # toolkit for desktop widgets, bars, system tray icons, notifications, etc.
 kitty               # terminal emulator
 #alacritty
