@@ -158,4 +158,5 @@ tobi-try
 typora    # markdown editor
 mise
 wayfreeze  # tool to freeze the wayland compositor (for screenshots)
+zoxide     # cd replacement
 ```
