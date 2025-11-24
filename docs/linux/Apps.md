@@ -110,6 +110,7 @@ bluetui         # bluetooth manager
 playerctl       # media player controller
 spotify_player  # terminal-based spotify client
 wiremix         # pipewire audio mixer
+plocate         # file finder
 
 # GUIs
 
