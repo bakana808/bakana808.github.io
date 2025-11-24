@@ -121,6 +121,9 @@ igir-bin        # ROM database manager
 flips-git       # ROM patcher (.ips/.bps files)
 ```
 
+## `quickshell`
+
+
 # TUIs
 `neovim`
 [`btop`](https://github.com/aristocratos/btop): nicer looking `htop` replacement\
