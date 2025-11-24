@@ -153,4 +153,5 @@ INTERESTING STUFF:
 ```bash
 gum
 tobi-try
+typora    # markdown editor
 ```
