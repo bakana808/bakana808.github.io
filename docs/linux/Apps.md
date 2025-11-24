@@ -123,7 +123,12 @@ flips-git       # ROM patcher (.ips/.bps files)
 
 ## `quickshell`
 
-
+- is able to make lockscreens (possibly replacing `hyprlock`)
+	- see https://git.outfoxxed.me/quickshell/quickshell-examples/src/branch/master/lockscreen/shell.qml
+- is able to handle dbus notifications (replacing most notification apps)
+	- test with `notify-send <msg> <submsg>`
+- is able to manage Bluetooth (replacing any GUI that does the same thing)
+	- requires `bluez` and `dbus`
 # TUIs
 `neovim`
 [`btop`](https://github.com/aristocratos/btop): nicer looking `htop` replacement\
