@@ -142,34 +142,15 @@ flips-git       # ROM patcher (.ips/.bps files)
 - is able to make a system tray / show applets
 - is able to make a media player controller
 - is able to make a greeter (using [greetd](https://man.sr.ht/~kennylevinsen/greetd/#setting-up-greetd-with-gtkgreet), possibly replacing `sddm`)
-# TUIs
-`neovim`
-[`btop`](https://github.com/aristocratos/btop): nicer looking `htop` replacement\
-[`fastfetch`](https://github.com/fastfetch-cli/fastfetch): nicer looking `neofetch` replacement\
-[`impala`](https://github.com/pythops/impala): wifi manager
-`spotify_player`: TUI spotify client
 
-# GUIs
-`obsidian`: note taking app
-`libreoffice`: free office suite
-`mpv`: media player
-`spotify`: music streaming app
-`discord`: text and voice chat platform
+## TO REMOVE:
+```bash
+sddm      # replace with greetd & login screen made in quickshell
+hyprshot  # replace with slurp/grim
+```
 
-## Gaming
-`steam`
-`gamescope`: gaming-focused microcompositor for running Steam and games
-
-## Fonts
-`fontpreview`\
-`fontpreview_sixel`
-
-# Development
-
-- Java: `jdk-openjdk`  
-- Rust: `rust`
-
-## ROM Management
-
-(AUR) `igir-bin`: commandline ROM database manager
-(AUR) `flips-git`: Floating IPS patcher
+INTERESTING STUFF:
+```bash
+gum
+tobi-try
+```
