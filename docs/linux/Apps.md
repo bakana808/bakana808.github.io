@@ -98,17 +98,18 @@ bat         # cat replacement with syntax highlighting
 bat-extras  # additional scripts for bat such as "batman" for syntax highlighted man pages
 jq          # JSON processor
 inxi        # system information tool
+btop            # nicer looking htop replacement
+fastfetch       # nicer looking neofetch replacement
+dust            # nicer looking du replacement
 
 # TUIs
 
 neovim
-btop            # nicer looking htop replacement
-fastfetch       # nicer looking neofetch replacement
-dust            # nicer looking du replacement
 impala          # wi-fi manager
 bluetui         # bluetooth manager
-playerctl       # media player control utility
+playerctl       # media player controller
 spotify_player  # terminal-based spotify client
+wiremix         # pipewire audio mixer
 
 # GUIs
 
@@ -155,4 +156,6 @@ INTERESTING STUFF:
 gum
 tobi-try
 typora    # markdown editor
+mise
+wayfreeze  # tool to freeze the wayland compositor (for screenshots)
 ```
