@@ -130,7 +130,7 @@ flips-git       # ROM patcher (.ips/.bps files)
 - is able to manage Bluetooth (replacing any GUI that does the same thing)
 	- requires `bluez` and `dbus`. `bluetooth.service` and `dbus-broker.service` need to be running.
 - is able to make a system tray / show applets
-
+- is able to make a media player controller
 # TUIs
 `neovim`
 [`btop`](https://github.com/aristocratos/btop): nicer looking `htop` replacement\
