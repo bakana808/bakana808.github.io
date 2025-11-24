@@ -20,6 +20,11 @@ fontconfig      # library used by many apps for font access
 brightnessctl   # tool to control screen brightness
 man-db          # implements manual pages (man)
 
+## Core - power
+
+upower
+power-profiles-daemon
+
 ## Core - audio
 
 pipewire
