@@ -18,7 +18,7 @@ $ sudo steamos-readonly disable
 # set up pacman-key
 $ sudo pacman-key --init
 $ sudo pacman-key --populate archlinux
-
+$ sudo pacman-key --populate holo
 
 # install base-devel (overwrite required if files carried over from previous OS)
 $ sudo pacman -S --overwrite \* base-devel
