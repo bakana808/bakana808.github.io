@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Apps"
             }
+          },
+          {
+            "id": "8eac307855c0e0f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9e9fce8fc768309",
+  "active": "8eac307855c0e0f7",
   "lastOpenFiles": [
     "docs/linux/Packages.md",
     "docs/linux/Apps.md",
