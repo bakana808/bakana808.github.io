@@ -60,7 +60,7 @@ hyprlock            # lock screen
 polkit-gnome        # authorization agent
 quickshell          # toolkit for desktop widgets, bars, system tray icons, notifications, etc.
 qt6-positioning
-
+qt6-5compat
 kitty               # terminal emulator
 #alacritty
 fish                # shell with auto-complete and syntax highlighting
