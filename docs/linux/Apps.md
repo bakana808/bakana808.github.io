@@ -51,6 +51,10 @@ jdk-openjdk  # Java
 rust         # Rust (official)
 luarocks     # package manager for Lua modules
 
+# Fonts
+
+ttf-material-symbols-variable
+inter-font
 
 # Desktop / Essentials
 
