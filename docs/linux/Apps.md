@@ -71,6 +71,7 @@ fish                # shell with auto-complete and syntax highlighting
 starship            # customizable shell prompt
 #dolphin
 nautilus            # file explorer
+nau
 sushi               # file previewer (integrates w/ nautilus)
 file-roller         # file archive manager (integrates w/ nautilus)
 ffmpegthumbnailer   # video thumbnail support for file managers
