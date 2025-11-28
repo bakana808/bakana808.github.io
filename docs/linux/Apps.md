@@ -1,24 +1,33 @@
-
-# Shell Tools
-`7zip`
-[`tealdeer`](https://github.com/tealdeer-rs/tealdeer): adds `tldr <command>` to print a summary of how to use the command\
-`fzf`: fuzzy finding\
-[`ripgrep`](https://github.com/BurntSushi/ripgrep)\
-[`eza`](https://eza.rocks/): nicer looking replacement for `ls`\
-[`fd`](https://github.com/sharkdp/fd): easier to use replacement for `find`\
-[`bat`](https://github.com/sharkdp/bat): `cat` replacement with syntax highlighting
-[`bat-extras`](https://github.com/eth-p/bat-extras):
+# Apps
 
 ```sh
 # Core
 
 git
+linux-headers
 #iwd             # daemon for connecting to wireless networks
 networkmanager  # daemon and CLI for connecting to networks (wired and wireless)
 inetutils       # collection of common network programs
 fontconfig      # library used by many apps for font access
 brightnessctl   # tool to control screen brightness
 man-db          # implements manual pages (man)
+os-prober       # (optional) allows GRUB to detect other OS installations if dual-booting 
+
+## Core - zen kernel
+
+linux-zen
+linux-zen-headers
+
+# after installing linux-zen, run `sudo grub-mkconfig -o /boot/grub/grub.cfg` to create a boot entry for it.
+# after confirming booting linux-zen works, then you can uninstall `linux` and `linux-headers`
+
+## Core - NVidia
+
+nvidia-open-dkms
+nvidia-utils
+nvidia-settings
+linux-firmware-nvidia
+lib32-nvidia-utils
 
 ## Core - power
 
@@ -67,6 +76,7 @@ inter-font
 sddm                # simple display manager
 hyprland            # wayland window manager
 hyprlock            # lock screen
+hypridle            # provides idle timeouts for auto screen off/suspend
 polkit-gnome        # authorization agent
 quickshell          # toolkit for desktop widgets, bars, system tray icons, notifications, etc.
 qt6-positioning
