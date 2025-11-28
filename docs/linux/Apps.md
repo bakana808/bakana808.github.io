@@ -53,6 +53,12 @@ luarocks     # package manager for Lua modules
 
 # Fonts
 
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+noto-fonts-extra
+woff2-font-awesome
+ttf-fantasque-sans-mono
 ttf-material-symbols-variable
 inter-font
 
@@ -71,7 +77,7 @@ fish                # shell with auto-complete and syntax highlighting
 starship            # customizable shell prompt
 #dolphin
 nautilus            # file explorer
-nau
+nautilus-open-any-terminal  # (AUR)
 sushi               # file previewer (integrates w/ nautilus)
 file-roller         # file archive manager (integrates w/ nautilus)
 ffmpegthumbnailer   # video thumbnail support for file managers
