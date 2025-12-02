@@ -35,8 +35,7 @@
               "title": "tips"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b97448ef93712ac",
+  "active": "8eac307855c0e0f7",
   "lastOpenFiles": [
-    "docs/linux/Apps.md",
     "docs/linux/tips.md",
+    "docs/linux/Apps.md",
     "docs/seedbox.md",
     "docs/linux/Autostarting Programs.md",
     "docs/linux/Common Issues.md",

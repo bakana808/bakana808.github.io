@@ -13,6 +13,10 @@ brightnessctl   # tool to control screen brightness
 man-db          # implements manual pages (man)
 os-prober       # (optional) allows GRUB to detect other OS installations if dual-booting 
 
+## Core - filesystems
+
+exfatprogs  # add exFAT fs support
+
 ## Core - zen kernel
 
 linux-zen
