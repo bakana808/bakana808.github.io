@@ -8,5 +8,6 @@
   "attachmentFolderPath": "./_attachments",
   "readableLineLength": false,
   "newFileLocation": "current",
-  "newFileFolderPath": "docs/_attachments"
+  "newFileFolderPath": "docs/_attachments",
+  "autoPairMarkdown": false
 }
