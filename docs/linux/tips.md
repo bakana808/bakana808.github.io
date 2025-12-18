@@ -12,3 +12,5 @@
 # See udisks(8)
 ENV{ID_FS_USAGE}=="filesystem|other|crypto", ENV{UDISKS_FILESYSTEM_SHARED}="1"
 ```
+
+NOTE: create the folder `/media` if it doesn't already exist
