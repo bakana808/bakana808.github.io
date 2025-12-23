@@ -8,3 +8,5 @@ lt way w/ other stuff: https://www.youtube.com/watch?v=-Iwoqm-JoJk
 beat juggle: https://www.youtube.com/watch?v=S5fy5bhf__I
 
 great one stop for all the classic breaks manip for jungle in one place, but not m8 specific: https://www.youtube.com/watch?v=RTskqRQPOug
+
+![[2025-12-22 23-50-20.mp4]]
