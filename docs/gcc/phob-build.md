@@ -10,7 +10,7 @@
 # Crimping
 - inner (wire) -> 1.4 mm
 - outer (jacket) -> 1.6 mm
-- inner then outer
+- outer then inner
 # GCC Cord (6-wire)
 - blue -> closest to center of board
 - blue-yellow-red-green-white-black
