@@ -7,6 +7,10 @@
 | 455-1704-ND                                                                                             | CONN HEADER VERT 2POS 2MM      | 2-pin female connector for triggers                   |
 | 455-1165-ND                                                                                             | CONN RCPT HSG 2POS 2.00MM      | 2-pin male connector for triggers                     |
 | [455-1313-1-ND](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SPHD-002T-P0-5/608754) | CONN SOCKET 24-28AWG CRIMP TIN | sockets for above connectors                          |
+# Crimping
+- inner (wire) -> 1.4 mm
+- outer (jacket) -> 1.6 mm
+- inner then outer
 # GCC Cord (6-wire)
 - blue -> closest to center of board
 - blue-yellow-red-green-white-black
