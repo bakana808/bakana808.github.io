@@ -19,6 +19,8 @@
 # Trigger Contacts (2x 2-wire)
 - install female connector on board with slit facing right
 - wires -> cut 4 cm long
+- mount wires on paddle board from bottom (contact facing up)
+- 2-pin male connector notch facing away from board
 
 # C-stick board (6-wire)
 - install female connector on board with clip facing down
