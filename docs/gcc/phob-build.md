@@ -18,8 +18,9 @@
 
 # Trigger Contacts (2x 2-wire)
 - install female connector on board with slit facing right
-- wires -> cut 4cm long
+- wires -> cut 4 cm long
 
 # C-stick board (6-wire)
 - install female connector on board with clip facing down
+- wires -> cut 3 cm long
 
