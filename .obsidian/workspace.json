@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/gamedev/Untitled.md",
+                "file": "docs/linux/Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Apps"
             }
           }
         ],
@@ -259,9 +259,9 @@
   },
   "active": "5b97448ef93712ac",
   "lastOpenFiles": [
+    "docs/gamedev/Untitled.md",
     "docs/linux/tips.md",
     "conflict-files-obsidian-git.md",
-    "docs/gamedev/Untitled.md",
     "docs/linux/Untitled.md",
     "docs/linux/Self-hosted Music.md",
     "docs/gcc/phob-build.md",

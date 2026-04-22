@@ -76,19 +76,31 @@ ttf-material-symbols-variable
 inter-font
 
 # Desktop / Essentials
+######################
 
 sddm                # simple display manager
+
+# hyprland ecosystem
 hyprland            # wayland window manager
 hyprlock            # lock screen
 hypridle            # provides idle timeouts for auto screen off/suspend
+
 polkit-gnome        # authorization agent
 quickshell          # toolkit for desktop widgets, bars, system tray icons, notifications, etc.
 qt6-positioning
 qt6-5compat
+
+# terminal emulators
 kitty               # terminal emulator
 #alacritty
+
+# shells
 fish                # shell with auto-complete and syntax highlighting
+
+# shell prompts
 starship            # customizable shell prompt
+
+# file explorers / extensions
 #dolphin
 nautilus            # file explorer
 nautilus-open-any-terminal  # (AUR)
@@ -100,7 +112,10 @@ gvfs-nfs
 gvfs-smb
 gnome-disk-utility  # disk manager
 gnome-tweaks        # settings app for GTK based apps
+
+# display manager
 nwg-displays        # display manager for wayland
+
 evince              # document viewer
 udiskie             # 
 #imv                 # image viewer
@@ -114,7 +129,7 @@ grim                 # wayland screenshot utility
 satty                # screenshot annotator
 #swappy
 
-# Shell tools
+# Commandline Tools
 
 7zip
 tealdeer    # adds "tldr <cmd>" to print a summary of how to use the command
@@ -156,6 +171,7 @@ swappy          # image snapshot editor
 # Gaming
 steam           # official package for steam
 gamescope       # gaming-focused microcompositor for running games
+umu-launcher    # (AUR) proton commandline launcher for windows .exes
 
 # Game Emulation
 igir-bin        # ROM database manager
