@@ -214,11 +214,26 @@ wayfreeze  # tool to freeze the wayland compositor (for screenshots)
 zoxide     # cd replacement
 ```
 
-## Desktop Enviroment
+## Desktop Enviroment (hyprland)
 ```
 Display Manager: sddm
 Window Manager: hyprland
 Idle Manager: hypridle
 Lockscreen: hyprlock
+Authentication Agent: polkit-gnome
+Portals:
+- xdg-desktop-portal-gtk
+- xdg-desktop-portal-hyprland
+```
 
+## Desktop Enviroment (niri)
+```
+Display Manager: sddm
+Window Manager: niri
+Idle Manager: hypridle
+Lockscreen: hyprlock
+Authentication Agent: polkit-gnome
+Portals:
+- xdg-desktop-portal-gtk
+- xdg-desktop-portal-hyprland
 ```
