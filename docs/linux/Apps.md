@@ -224,6 +224,8 @@ Authentication Agent: polkit-gnome
 Portals:
 - xdg-desktop-portal-gtk
 - xdg-desktop-portal-hyprland
+Application Launcher: quickshell
+Notifications: quickshell
 ```
 
 ## Desktop Enviroment (niri)
@@ -235,5 +237,7 @@ Lockscreen: hyprlock
 Authentication Agent: polkit-gnome
 Portals:
 - xdg-desktop-portal-gtk
-- xdg-desktop-portal-hyprland
+- xdg-desktop-portal-gnome
+Application Launcher: quickshell
+Notifications: quickshell
 ```
