@@ -86,9 +86,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.12.4"
             }
+          },
+          {
+            "id": "52c8462ddfce5593",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,7 +265,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5e5509548d84e1b",
+  "active": "52c8462ddfce5593",
   "lastOpenFiles": [
     "docs/linux/Apps.md",
     "docs/linux/Self-hosted Music.md",
