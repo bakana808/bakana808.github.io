@@ -213,3 +213,12 @@ mise
 wayfreeze  # tool to freeze the wayland compositor (for screenshots)
 zoxide     # cd replacement
 ```
+
+## Desktop Enviroment
+```
+Display Manager: sddm
+Window Manager: hyprland
+Idle Manager: hypridle
+Lockscreen: hyprlock
+
+```
